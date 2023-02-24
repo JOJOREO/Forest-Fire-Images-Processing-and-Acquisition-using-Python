@@ -1,0 +1,1 @@
+# Forest-Fire-Images-Processing-and-Acquisition-using-Python
